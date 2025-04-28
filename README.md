@@ -10,8 +10,9 @@ Al seleccionar un complejo, en la misma página se desplegará la lista de pelí
 ## Instrucciones
 ```bash
    git clone git@github.com:mvdelcampo/AppMovie-MVdC.git
-cd .\AppMovie-MVdC\
-npm install
-npm start
+   cd .\AppMovie-MVdC\
+   npm install
+   npm start
+```
 
-## Hecho por María Victoria del Campo.
+### Hecho por María Victoria del Campo.
