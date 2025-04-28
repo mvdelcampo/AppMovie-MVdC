@@ -1,8 +1,7 @@
 # App Movie - Obligatorio materia Aplicaciones para Dispositivos Móviles
 
-Consigna:
+Consigna: Desarrollar una aplicación para consultar la cartelera del cine.
 
-Desarrollar una aplicación para consultar la cartelera del cine.
 Obtendra la información del webservices: https://api.movie.com.uy/api/shows/rss/data
 El webservice retorna la información en formato JSON, separándol por complejo, Punta Carretas, Montevideo Shopping, Nuevo Centro, …
 La App tendrá la siguiente funcionalidad.
