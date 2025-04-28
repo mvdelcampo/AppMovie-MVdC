@@ -1,4 +1,4 @@
-# App Movie - Obligatorio materia Aplicaciones para Dispositivos Móviles 👋
+# App Movie - Obligatorio materia Aplicaciones para Dispositivos Móviles
 
 Consigna:
 
