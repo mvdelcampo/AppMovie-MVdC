@@ -7,4 +7,4 @@ La App tendrá la siguiente funcionalidad:
 Dispondrá de dos pantallas, la pantalla inicial, principal, contará con una list picket o combo box –por ejemplo @react-native-picker/picker–, con la lista de complejos.
 Al seleccionar un complejo, en la misma página se desplegará la lista de películas vigentes, mostrando su poster y el título. Al hacer touch sobre una película, se abrirá en una segunda pantalla, el detalle de la misma, con poster, título, descripción, horarios, etc Si tiene trailer, será un plus que se muestre.
 
-María Victoria del Campo.
+Hecho por María Victoria del Campo.
